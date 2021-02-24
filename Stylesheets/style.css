@@ -1,0 +1,74 @@
+*{
+    background-color:  #252323;
+    color: #f5f5f5;
+}
+.whole-nav{
+    display: flex;
+    width: auto;
+    padding: 20px;
+}
+.left-nav{
+    width: 50%;
+}
+.logo{
+    margin: 80px;
+}
+.right-nav{
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+    list-style-type: none;
+}
+li{
+    margin: auto;
+    font-size:larger;
+}
+.hero-container{
+    width: auto;
+    height: max-content;
+}
+.hero{
+    width: fit-content;
+    margin: auto;
+    padding: 80px;
+}
+.container{
+    padding: 50px;
+}
+.hero-title{
+    font-size: 60px;
+}
+.about{
+    display: flex;
+    width: auto;
+}
+.left-about{
+    width: 50%;
+    list-style-type: none;
+}
+.img{
+    width: fit-content;
+    margin-left: auto;
+}
+.mypic{
+    width: 40vh;
+}
+.right-about{
+    width: 50%;
+    font-size: 30px;
+}
+.name-birth{
+    text-align: end;
+}
+.skill{
+    text-align: center;
+}
+.card-middle{
+    display: flex;
+}
+.card-small{
+    margin: auto;
+}
+.language-pic{
+    width: 40vh;
+}
